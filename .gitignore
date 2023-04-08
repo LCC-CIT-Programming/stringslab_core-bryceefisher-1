@@ -9,6 +9,7 @@
 
 # MAC stuff
 .DS_Store
+.idea
 
 # User-specific files
 *.rsuser
